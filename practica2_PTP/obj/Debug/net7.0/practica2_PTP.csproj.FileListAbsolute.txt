@@ -1,0 +1,5 @@
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/practica2_PTP.csproj.AssemblyReference.cache
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/practica2_PTP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/practica2_PTP.AssemblyInfoInputs.cache
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/practica2_PTP.AssemblyInfo.cs
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/practica2_PTP.csproj.CoreCompileInputs.cache
