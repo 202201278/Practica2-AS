@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{0153F416-C4CE-4082-8BAF-3A7D09F8A8AF}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="practica2_PTP/UnregisteredVehicle.cs">
+    <Files>
+      <File FileName="practica2_PTP/Program.cs" />
+      <File FileName="practica2_PTP/PoliceCar.cs" />
+      <File FileName="practica2_PTP/Taxi.cs" />
+      <File FileName="practica2_PTP/IMessageWritter.cs" />
+      <File FileName="practica2_PTP/PoliceStation.cs" />
+      <File FileName="practica2_PTP/SpeedRadar.cs" />
+      <File FileName="practica2_PTP/City.cs" />
+      <File FileName="practica2_PTP/Vehicle.cs" Line="10" Column="45" />
+      <File FileName="practica2_PTP/RegisteredVehicle.cs" />
+      <File FileName="practica2_PTP/UnregisteredVehicle.cs" Line="20" Column="2" />
+      <File FileName="practica2_PTP/Scooter.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="practica2_PTP" expanded="True">
+            <Node name="practica2_PTP">
+              <Node name="UnregisteredVehicle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.practica2__PTP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
