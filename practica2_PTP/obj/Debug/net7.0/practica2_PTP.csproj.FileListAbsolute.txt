@@ -3,3 +3,13 @@
 /Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/practica2_PTP.AssemblyInfoInputs.cache
 /Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/practica2_PTP.AssemblyInfo.cs
 /Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/practica2_PTP.csproj.CoreCompileInputs.cache
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/bin/Debug/net7.0/practica2_PTP
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/bin/Debug/net7.0/practica2_PTP.deps.json
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/bin/Debug/net7.0/practica2_PTP.runtimeconfig.json
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/bin/Debug/net7.0/practica2_PTP.dll
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/bin/Debug/net7.0/practica2_PTP.pdb
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/practica2_PTP.dll
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/refint/practica2_PTP.dll
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/practica2_PTP.pdb
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/practica2_PTP.genruntimeconfig.cache
+/Users/santiagomartinezdie/Projects/practica2_PTP/practica2_PTP/obj/Debug/net7.0/ref/practica2_PTP.dll

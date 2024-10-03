@@ -14,16 +14,6 @@ namespace practica2_PTP
             Taxis = new List<Taxi>();
         }
 
-        public string GetName()
-        {
-            return this.name;
-        }
-
-        public override string ToString()
-        {
-            return $"City  {GetName()}";
-        }
-
 
 
         public void AddPoliceStation(PoliceStation station)
