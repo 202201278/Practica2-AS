@@ -1,7 +1,9 @@
-﻿using System;
+﻿
+using System.Security.Claims;
+
 namespace practica2_PTP
 {
-    class PoliceStation
+    class PoliceStation : IMessageWritter
     {
         public string name;
         public List<PoliceCar> PoliceCars { get; private set; }
@@ -15,15 +17,25 @@ namespace practica2_PTP
 
 
         }
+        public string GetName()
+        {
+            return this.name;
+        }
 
+        public override string ToString()
+        {
+            return $"Police station  {GetName()}";
+        }
 
         public void RegisterPoliceCar(PoliceCar car)
         {
             PoliceCars.Add(car);
+            Console.WriteLine(WriteMessage($"police car with plate {car.GetPlate()} registered in this "));
         }
 
         public void ActivateAlert(Taxi infractor)
         {
+            Console.WriteLine(WriteMessage($"Alert: vehicle with plate {infractor.GetPlate()} caught above legal speed."));
             foreach (var car in PoliceCars)
             {
                 if (car.IsPatrolling())
@@ -35,7 +47,10 @@ namespace practica2_PTP
             city.WithdrawLicense(infractor);
         }
 
-
+        public string WriteMessage(string message)
+        {
+            return $"{this}: {message}";
+        }
     }
 }
 
